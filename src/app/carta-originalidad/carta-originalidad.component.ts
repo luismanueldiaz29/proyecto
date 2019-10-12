@@ -7,7 +7,9 @@ import { Component, OnInit } from '@angular/core';
 })
 export class CartaOriginalidadComponent implements OnInit {
 
-  constructor() { }
+  constructor() {
+    alert('completar el formaulario y generar el docuento');
+   }
 
   ngOnInit() {
   }
